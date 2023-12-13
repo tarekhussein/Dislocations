@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from pylab import cm
+import math
 
 l=20
 n=550
